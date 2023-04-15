@@ -8,3 +8,5 @@ As tecnologias utilizadas foram:
 -Netlify
 
 Segue o link para acessar o app: https://as2reactapp.netlify.app
+
+OBS: Caso queira fazer o PULL dos códigos na sua maquina, lembre de rodar o "npm install" para instalar todas as bibliotecas que instalei no código, na sua maquina.
